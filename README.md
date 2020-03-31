@@ -1,5 +1,4 @@
-# python-mini-projects
-
+# Proving Chargaff right!
 Now we assume that the DNA is a double helix but a long time ago (before Watson and Crick) people believed that the DNA was a polymer just like a elongated tublin molecule. With the DNA bases all stacked on each other. This [tetranucleotide hypothesis](https://www.mun.ca/biology/scarr/Tetranucleotide_Hypothesis.html) of DNA was proposed by a very well established scientist of his time, Phoebus Levene. His structure of the DNA proposed that all the bases occur equal number of times on the tetrad strcuture, hence %A=%T=%G=%C. 
 
 But a very brilliant scientist [Erwin Chargaff](https://en.wikipedia.org/wiki/Erwin_Chargaff) did amazing analytical chemistry to prove Levene wrong and formulated what is know today as the [Chargaff's Rules](https://en.wikipedia.org/wiki/Chargaff%27s_rules). 
