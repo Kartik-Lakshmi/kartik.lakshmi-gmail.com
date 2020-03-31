@@ -9,9 +9,9 @@ In fact these rules, %A=%T and %G=%C, is the reason why Watson and Crick were ab
 Your job is to prove recreate Chargaff's experiments using python. 
 
 1. Analyze the .fasta files of the genome of:
-  1. Humans
-  2. Plasmodium falciparum 
-  3. Anopheles gambiaeas 
+    1. Humans
+    2. Plasmodium falciparum 
+    3. Anopheles gambiaeas 
 and calculate the %A, %T, %C, and %G. 
 What do you conclude from your analysis? 
 
